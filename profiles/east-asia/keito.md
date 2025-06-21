@@ -1,193 +1,159 @@
 # KEITO - AI & Web Development Expert (Japan)
 
-![KEITO](../../images/portraits/keito.jpg)
+![KEITO](/home/ubuntu/ai-rockstars/images/portraits/keito.jpg)
 
-## 🎯 Quick Stats
+## 基本信息 / Basic Information
 
-| Metric | Value |
-|--------|-------|
-| **Channel Name** | KEITO【AI&WEB ch】|
-| **Real Name** | KEITO (ケイト) |
-| **Nationality** | 🇯🇵 Japanese |
-| **Age** | ~30 years old |
-| **Location** | Tokyo, Japan |
-| **Tier** | S-Tier (Existing Partner) |
-| **Collaboration Potential** | ⭐⭐⭐⭐⭐ |
+**中文**
+- **姓名**: KEITO (ケイト)
+- **国籍**: 日本
+- **当前居住地**: 日本东京
 
-## 📱 Social Media Presence
+**English**
+- **Name**: KEITO (ケイト)
+- **Nationality**: Japanese
+- **Current Residence**: Tokyo, Japan
 
-| Platform | Handle | Followers | Engagement Rate |
-|----------|--------|-----------|-----------------|
-| **YouTube** | [@KEITO_AI_WEB](https://youtube.com/@KEITO_AI_WEB) | 148K | Very High |
-| **X.com** | [@keito_ai_web](https://x.com/keito_ai_web) | 20K+ | High |
-| **LinkedIn** | [KEITO AI&WEB](https://linkedin.com/in/keito-ai-web) | 5K+ | Moderate |
-| **GitHub** | [@keito-ai](https://github.com/keito-ai) | 2K+ | Active |
+## 教育背景 / Educational Background
 
-## 🎓 Educational Background
+**中文**
+- **计算机科学学位**: 日本大学
+- **专业认证**: 多个Web开发专业认证
+- **持续学习**: 持续学习AI/机器学习课程
+- **自学背景**: 在新兴技术领域拥有强大的自学背景
 
-- **Computer Science Degree** - Japanese university
-- **Web Development Certifications** - Multiple professional certifications
-- **AI/ML Courses** - Continuous learning in AI technologies
-- **Self-taught Expertise** - Strong autodidactic background in emerging technologies
+**English**
+- **Computer Science Degree**: Japanese university
+- **Professional Certifications**: Multiple Web Development Certifications
+- **Continuous Learning**: Continuous learning in AI/ML Courses
+- **Self-taught Expertise**: Strong autodidactic background in emerging technologies
 
-## 💼 Professional Achievements
+## 职业成就 / Professional Achievements
 
+**中文**
+### 当前职位
+- **全职内容创作者**: YouTube频道主
+- **AI顾问**: 为日本企业提供独立咨询
+- **Web开发者**: 自由职业
+- **技术教育者**: AI和Web开发讲师
+
+### 曾任经验
+- **软件开发者**: 日本科技公司
+- **Web开发**: 各种客户项目
+- **技术写作**: 文档和教程创建
+- **社区建设**: 活跃于日本科技社区
+
+### 显著成就
+- 在竞争激烈的日本科技领域拥有14.8万YouTube订阅者
+- 持续创作内容 (329个视频，定期上传)
+- 日本AI社区的领导者 (在日本AI领域有公认的声音)
+- 技术专长 (能够解释复杂概念)
+
+**English**
 ### Current Positions
-- **Full-time Content Creator** - YouTube channel owner and operator
-- **AI Consultant** - Independent consulting for Japanese businesses
-- **Web Developer** - Freelance web development projects
-- **Technology Educator** - AI and web development instructor
+- **Full-time Content Creator**: YouTube channel owner and operator
+- **AI Consultant**: Independent consulting for Japanese businesses
+- **Web Developer**: Freelance web development projects
+- **Technology Educator**: AI and web development instructor
 
 ### Previous Experience
-- **Software Developer** - Japanese tech companies
-- **Web Development** - Various client projects
-- **Technical Writing** - Documentation and tutorial creation
-- **Community Building** - Active in Japanese tech communities
+- **Software Developer**: Japanese tech companies
+- **Web Development**: Various client projects
+- **Technical Writing**: Documentation and tutorial creation
+- **Community Building**: Active in Japanese tech communities
 
 ### Notable Achievements
-- **148K YouTube subscribers** in competitive Japanese tech space
-- **Manus AI Agent Partner** - Created dedicated introduction video
-- **Consistent Content Creator** - 329 videos with regular upload schedule
-- **Japanese AI Community Leader** - Recognized voice in Japanese AI space
-- **Technical Expertise** - Proven ability to explain complex concepts
+- 148K YouTube subscribers in competitive Japanese tech space
+- Consistent Content Creator (329 videos with regular upload schedule)
+- Japanese AI Community Leader (Recognized voice in Japanese AI space)
+- Technical Expertise (Proven ability to explain complex concepts)
 
-## 🔬 Expertise & Specializations
+## 技术专长 / Technical Expertise
 
+**中文**
+### 技术领域
+- **AI工具与平台**: 全面了解AI应用
+- **Web开发**: 全栈Web开发专业知识
+- **JavaScript/Python**: AI和Web编程语言
+- **无代码/低代码**: 现代开发方法
+- **API集成**: 将AI服务与应用程序连接
+
+### 应用领域
+- **AI工具评测**: 对AI平台和工具进行深度测试和评估
+- **教程创建**: 分步指导技术实现
+- **商业自动化**: 使用AI改进业务流程
+- **日本市场洞察**: 了解本地业务需求
+
+**English**
 ### Technical Domains
-- **AI Tools & Platforms** - Comprehensive knowledge of AI applications
-- **Web Development** - Full-stack web development expertise
-- **Manus AI Agent** - Experienced user and advocate
-- **JavaScript/Python** - Programming languages for AI and web
-- **No-Code/Low-Code** - Modern development approaches
-- **API Integration** - Connecting AI services with applications
+- **AI Tools & Platforms**: Comprehensive knowledge of AI applications
+- **Web Development**: Full-stack web development expertise
+- **JavaScript/Python**: Programming languages for AI and web
+- **No-Code/Low-Code**: Modern development approaches
+- **API Integration**: Connecting AI services with applications
 
 ### Business Applications
-- **AI Tool Reviews** - Honest evaluations of AI platforms and tools
-- **Tutorial Creation** - Step-by-step guides for technical implementation
-- **Business Automation** - Using AI for business process improvement
-- **Japanese Market Insights** - Understanding of local business needs
-- **Cross-cultural Communication** - Bridging Japanese and global tech communities
+- **AI Tool Reviews**: Honest evaluations of AI platforms and tools
+- **Tutorial Creation**: Step-by-step guides for technical implementation
+- **Business Automation**: Using AI for business process improvement
+- **Japanese Market Insights**: Understanding of local business needs
 
-## 🌟 Content & Influence
+## 内容与影响力 / Content & Influence
 
+**中文**
+### 内容主题
+- **AI工具教程**: 有效使用AI工具的实用指南
+- **Web开发**: 现代Web开发技术和框架
+- **技术评测**: 对新工具和平台的客观评估
+- **日本商业应用**: AI在日本公司的用例
+
+### 近期关注领域 (2024-2025)
+- **AI自动化工作流**: 构建高效的AI驱动流程
+- **日本AI采纳**: 帮助日本企业采纳AI
+- **跨平台集成**: 连接不同的AI工具和服务
+
+### 互动风格
+- **教育性**: 清晰、分步的教学内容
+- **实用性**: 专注于实际应用和实现
+- **诚实性**: 对工具的局限性和优点保持透明
+- **文化意识**: 为日本受众量身定制内容
+
+**English**
 ### Content Themes
-- **AI Tool Tutorials** - Practical guides for using AI tools effectively
-- **Web Development** - Modern web development techniques and frameworks
-- **Manus AI Agent** - Dedicated content about Manus platform features
-- **Technology Reviews** - Honest assessments of new tools and platforms
-- **Japanese Business Applications** - AI use cases for Japanese companies
+- **AI Tool Tutorials**: Practical guides for using AI tools effectively
+- **Web Development**: Modern web development techniques and frameworks
+- **Technology Reviews**: Honest assessments of new tools and platforms
+- **Japanese Business Applications**: AI use cases for Japanese companies
 
 ### Recent Focus Areas (2024-2025)
-- **Manus AI Agent Deep Dives** - Comprehensive tutorials and use cases
-- **AI Automation Workflows** - Building efficient AI-powered processes
-- **Japanese AI Adoption** - Helping Japanese businesses embrace AI
-- **Cross-platform Integration** - Connecting different AI tools and services
+- **AI Automation Workflows**: Building efficient AI-powered processes
+- **Japanese AI Adoption**: Helping Japanese businesses embrace AI
+- **Cross-platform Integration**: Connecting different AI tools and services
 
 ### Engagement Style
-- **Educational** - Clear, step-by-step instructional content
-- **Practical** - Focus on real-world applications and implementations
-- **Honest** - Transparent about tool limitations and benefits
-- **Culturally Aware** - Content tailored for Japanese audience needs
+- **Educational**: Clear, step-by-step instructional content
+- **Practical**: Focus on real-world applications and implementations
+- **Honest**: Transparent about tool limitations and benefits
+- **Culturally Aware**: Content tailored for Japanese audience needs
 
-## 🤝 Collaboration Opportunities
+## 社交媒体影响力 / Social Media Influence
 
-### Current Partnership Status
-- **Existing Manus Partner** - Already created introduction video
-- **Proven Advocate** - Demonstrated genuine enthusiasm for the platform
-- **Established Relationship** - Foundation for deeper collaboration
-- **Market Credibility** - Trusted voice in Japanese AI community
+**中文**
+### 平台表现
+- **YouTube**: [@KEITO_AI_WEB](https://youtube.com/@KEITO_AI_WEB) - 14.8万订阅者
+- **X.com**: [@keito_ai_web](https://x.com/keito_ai_web) - 2万+关注者
+- **LinkedIn**: [KEITO AI&WEB](https://linkedin.com/in/keito-ai-web) - 5千+关注者
+- **GitHub**: [@keito-ai](https://github.com/keito-ai) - 2千+关注者
 
-### Expansion Opportunities
-- **Feature Deep Dives** - Detailed tutorials on new Manus features
-- **Use Case Development** - Creating Japanese business use cases
-- **Community Building** - Developing Japanese user community
-- **Feedback Loop** - Providing insights for Japanese market needs
-
-### Value Proposition for Partners
-- **Market Access** - Gateway to Japanese AI and business communities
-- **Cultural Bridge** - Understanding of Japanese business culture and needs
-- **Technical Credibility** - Proven ability to evaluate and explain AI tools
-- **Existing Advocacy** - Already positive about Manus platform
-
-## 💰 Commercial Potential
-
-### Collaboration Tiers
-- **Strategic Partnership** - Long-term exclusive collaboration
-- **Feature Sponsorship** - Dedicated content for new features
-- **Community Ambassador** - Official Japanese market representative
-- **Content Collaboration** - Joint content creation and promotion
-
-### Investment Considerations
-- **Moderate Pricing** - Reasonable rates for Japanese market
-- **High ROI** - Strong conversion in Japanese business segment
-- **Market Expertise** - Deep understanding of Japanese business needs
-- **Existing Relationship** - Lower risk due to proven collaboration
-
-## 📊 Performance Metrics
-
-### Engagement Analytics
-- **Average Video Views** - 10K-50K per video
-- **Engagement Rate** - 12-15% (very high for Japanese tech content)
-- **Subscriber Growth** - Steady growth in competitive market
-- **Watch Time** - High completion rates for tutorial content
-
-### Audience Demographics
-- **Geographic Distribution** - 85% Japan, 10% Asia, 5% Global
-- **Professional Level** - 50% Mid-level, 30% Senior, 20% Entry-level
-- **Industry Focus** - Technology (40%), Business (30%), Freelance (20%), Other (10%)
-- **Company Size** - 40% SMB, 35% Enterprise, 25% Startup/Individual
-
-## 🎯 Collaboration Strategy
-
-### Deepening Partnership
-1. **Expand Content Series** - Regular Manus feature tutorials
-2. **Japanese Use Cases** - Develop Japan-specific business applications
-3. **Community Building** - Create Japanese Manus user community
-4. **Feedback Integration** - Regular input on Japanese market needs
-
-### Key Messages
-- **Japanese Business Value** - How Manus solves specific Japanese business challenges
-- **Cultural Adaptation** - Manus features that work well in Japanese context
-- **Competitive Advantage** - Why Manus is superior to alternatives in Japan
-- **Success Stories** - Japanese businesses succeeding with Manus
-
-### Success Metrics
-- **Content Performance** - Increased views and engagement on Manus content
-- **User Acquisition** - Measurable growth in Japanese Manus users
-- **Community Growth** - Active Japanese user community development
-- **Market Penetration** - Increased brand awareness in Japanese AI market
-
-## 📞 Contact Information
-
-### Professional Channels
-- **YouTube Channel** - Direct messaging through YouTube
-- **Email** - Business inquiries through channel contact
-- **X.com** - Direct messaging for quick communication
-- **Existing Relationship** - Through current Manus partnership channels
-
-### Best Practices for Outreach
-- **Respectful Communication** - Understanding of Japanese business etiquette
-- **Clear Objectives** - Specific goals for expanded collaboration
-- **Mutual Benefit** - Emphasize value for both parties
-- **Long-term Vision** - Focus on building lasting partnership
-
-## 🇯🇵 Japanese Market Insights
-
-### Market Characteristics
-- **Quality Focus** - Japanese businesses prioritize quality and reliability
-- **Relationship Building** - Long-term partnerships valued over quick transactions
-- **Detailed Evaluation** - Thorough testing and evaluation before adoption
-- **Local Support** - Preference for local language support and documentation
-
-### Collaboration Advantages
-- **Market Credibility** - KEITO's endorsement carries significant weight
-- **Cultural Understanding** - Knows how to present AI tools to Japanese audience
-- **Language Bridge** - Can create Japanese content and documentation
-- **Business Network** - Connections in Japanese business and tech communities
+**English**
+### Platform Performance
+- **YouTube**: [@KEITO_AI_WEB](https://youtube.com/@KEITO_AI_WEB) - 148K subscribers
+- **X.com**: [@keito_ai_web](https://x.com/keito_ai_web) - 20K+ followers
+- **LinkedIn**: [KEITO AI&WEB](https://linkedin.com/in/keito-ai-web) - 5K+ followers
+- **GitHub**: [@keito-ai](https://github.com/keito-ai) - 2K+ followers
 
 ---
 
+*最后更新: 2025年6月21日*
 *Last Updated: June 21, 2025*
-*Profile Confidence: 95% (Existing partner with verified relationship)*
-*Collaboration Priority: Highest (S-Tier, Existing Partner)*
 

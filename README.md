@@ -34,7 +34,8 @@ AI Rockstars is a knowledge-sharing platform focused on outstanding figures in t
 ### 🏆 S级贡献者 / S-Tier Contributors
 
 #### Andrew Ng - AI教育先驱 / AI Education Pioneer
-<img src="images/portraits/andrew_ng.jpg" alt="Andrew Ng" width="150" align="right">
+
+![Andrew Ng](images/portraits/andrew_ng.jpg)
 
 **中文介绍**  
 Andrew Ng是全球AI教育的先驱者，Stanford大学教授，Coursera联合创始人，DeepLearning.AI创始人。他在机器学习和AI教育领域做出了卓越贡献，特别是在Agentic AI方面的最新研究引领了行业发展方向。
@@ -56,7 +57,8 @@ Andrew Ng is a global pioneer in AI education, Stanford University professor, co
 ---
 
 #### Tina Huang - 数据科学教育家 / Data Science Educator
-<img src="images/portraits/tina_huang.jpg" alt="Tina Huang" width="150" align="right">
+
+![Tina Huang](images/portraits/tina_huang.jpg)
 
 **中文介绍**  
 Tina Huang是前Meta数据科学家，现为知名的AI和数据科学教育者。她通过YouTube平台分享实用的AI工具使用技巧和职业发展建议，在技术社区享有很高声誉。
@@ -77,7 +79,8 @@ Tina Huang is a former Meta data scientist and now a renowned AI and data scienc
 ---
 
 #### KEITO - AI工具专家 / AI Tools Expert
-<img src="images/portraits/keito.jpg" alt="KEITO" width="150" align="right">
+
+![KEITO](images/portraits/keito.jpg)
 
 **中文介绍**  
 KEITO是日本知名的AI工具专家和Web开发者，专注于AI Agent工具的实际应用和教学。他的YouTube频道为日本AI社区提供了宝贵的技术资源和实践指导。
@@ -100,7 +103,8 @@ KEITO is a renowned AI tools expert and web developer from Japan, focusing on pr
 ### 🌟 A级贡献者 / A-Tier Contributors
 
 #### Patricia Scanlon - AI政策专家 / AI Policy Expert
-<img src="images/portraits/patricia_scanlon.jpg" alt="Patricia Scanlon" width="150" align="right">
+
+![Patricia Scanlon](images/portraits/patricia_scanlon.jpg)
 
 **中文介绍**  
 Patricia Scanlon博士是爱尔兰首位AI大使，SoapBox Labs创始人兼CEO。她在AI伦理、政策制定和儿童语音技术方面具有深厚专业知识，是AI治理领域的权威专家。
@@ -117,7 +121,8 @@ Dr. Patricia Scanlon is Ireland's first AI Ambassador and founder & CEO of SoapB
 ---
 
 #### Clément Delangue - 开源AI领袖 / Open Source AI Leader
-<img src="images/portraits/clement_delangue.jpg" alt="Clément Delangue" width="150" align="right">
+
+![Clément Delangue](images/portraits/clement_delangue.jpg)
 
 **中文介绍**  
 Clément Delangue是Hugging Face的联合创始人兼CEO，Time杂志2023年AI最具影响力人物。他领导着全球最大的开源AI平台，推动AI技术的民主化发展。
@@ -132,49 +137,6 @@ Clément Delangue is co-founder and CEO of Hugging Face, named one of Time Magaz
 - 💡 促进AI技术的创新和应用
 
 ---
-
-## 🌏 地区分布 / Regional Distribution
-
-### 北美地区 / North America
-- **Andrew Ng** - 美国 / USA
-- **Tina Huang** - 美国 / USA
-- **Jeff Su** - 美国 / USA
-- **Allie K. Miller** - 美国 / USA
-
-### 东亚地区 / East Asia
-- **KEITO** - 日本 / Japan
-- **深津貴之 (Fukatsu Takayuki)** - 日本 / Japan
-
-### 欧洲地区 / Europe
-- **Patricia Scanlon** - 爱尔兰 / Ireland
-- **Clément Delangue** - 法国 / France
-
-### 南亚地区 / South Asia
-- **Ashwin Mittal** - 印度 / India
-
-### 南美地区 / South America
-- **Ana Tex** - 巴西 / Brazil
-
-## 📊 技术领域分布 / Technical Domain Distribution
-
-### AI教育与培训 / AI Education & Training
-- Andrew Ng - 在线AI教育平台
-- Tina Huang - 实用技能培训
-- KEITO - 工具使用教学
-
-### AI研究与开发 / AI Research & Development
-- Clément Delangue - 开源AI平台
-- 深津貴之 - AI产品设计
-- Ashwin Mittal - 企业AI解决方案
-
-### AI政策与伦理 / AI Policy & Ethics
-- Patricia Scanlon - AI治理与政策
-- Allie K. Miller - 企业AI战略
-
-### AI工具与应用 / AI Tools & Applications
-- Jeff Su - 生产力工具
-- Ana Tex - 商业应用
-- KEITO - 技术工具评测
 
 ## 📚 详细档案 / Detailed Profiles
 
@@ -191,44 +153,18 @@ Each outstanding figure has a detailed profile including:
 ### 档案目录 / Profile Directory
 
 #### 北美地区档案 / North America Profiles
-- [Andrew Ng 详细档案](profiles/north-america/andrew-ng.md)
-- [Tina Huang 详细档案](profiles/north-america/tina-huang.md)
+
+{{ include "profiles/north-america/andrew-ng.md" }}
+
+{{ include "profiles/north-america/tina-huang.md" }}
 
 #### 东亚地区档案 / East Asia Profiles  
-- [KEITO 详细档案](profiles/east-asia/keito.md)
+
+{{ include "profiles/east-asia/keito.md" }}
 
 #### 欧洲地区档案 / Europe Profiles
-- [Patricia Scanlon 详细档案](profiles/europe/patricia-scanlon.md)
 
-## 📈 数据洞察 / Data Insights
-
-### 平台影响力统计 / Platform Influence Statistics
-
-| 平台 Platform | 总关注者 Total Followers | 平均参与度 Avg Engagement |
-|---------------|-------------------------|--------------------------|
-| YouTube | 300万+ / 3M+ | 高 / High |
-| LinkedIn | 400万+ / 4M+ | 很高 / Very High |
-| X.com | 500万+ / 5M+ | 高 / High |
-
-### 地区分布统计 / Regional Distribution Statistics
-
-```
-北美 North America: 40%
-东亚 East Asia: 20%
-欧洲 Europe: 20%
-南亚 South Asia: 10%
-南美 South America: 10%
-```
-
-### 技术领域分布 / Technical Domain Distribution
-
-```
-AI教育 Education: 30%
-AI研究 Research: 25%
-AI工具 Tools: 20%
-AI政策 Policy: 15%
-AI应用 Applications: 10%
-```
+{{ include "profiles/europe/patricia-scanlon.md" }}
 
 ## 🤝 贡献指南 / Contributing Guidelines
 
