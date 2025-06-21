@@ -1,0 +1,116 @@
+{
+  "database_info": {
+    "version": "1.0.0",
+    "last_updated": "2025-06-21",
+    "total_influencers": 23,
+    "regions_covered": 8,
+    "platforms": ["YouTube", "X.com", "LinkedIn"],
+    "languages": ["English", "Chinese", "Japanese", "Korean", "Portuguese", "Spanish", "French", "German"]
+  },
+  "influencers": [
+    {
+      "id": "andrew-ng",
+      "name": "Andrew Ng",
+      "tier": "S",
+      "region": "north-america",
+      "country": "USA",
+      "platforms": {
+        "x_com": {
+          "handle": "@AndrewYNg",
+          "followers": 2080000,
+          "engagement_rate": "high"
+        },
+        "linkedin": {
+          "handle": "andrewyng",
+          "followers": 2080000,
+          "engagement_rate": "very_high"
+        },
+        "youtube": {
+          "handle": "@Deeplearningai",
+          "followers": 500000,
+          "engagement_rate": "high"
+        }
+      },
+      "specialties": ["Agentic AI", "Machine Learning", "AI Education"],
+      "collaboration_potential": 5,
+      "languages": ["English"],
+      "profile_path": "profiles/north-america/andrew-ng.md",
+      "image_path": "images/portraits/andrew_ng.jpg"
+    },
+    {
+      "id": "tina-huang",
+      "name": "Tina Huang",
+      "tier": "S",
+      "region": "north-america",
+      "country": "USA",
+      "platforms": {
+        "youtube": {
+          "handle": "@TinaHuang1",
+          "followers": 901000,
+          "engagement_rate": "very_high"
+        },
+        "linkedin": {
+          "handle": "tina-huang",
+          "followers": 100000,
+          "engagement_rate": "high"
+        }
+      },
+      "specialties": ["Data Science", "AI Career Development", "Technical Education"],
+      "collaboration_potential": 5,
+      "languages": ["English"],
+      "profile_path": "profiles/north-america/tina-huang.md",
+      "image_path": "images/portraits/tina_huang.jpg"
+    },
+    {
+      "id": "keito",
+      "name": "KEITO",
+      "tier": "S",
+      "region": "east-asia",
+      "country": "Japan",
+      "platforms": {
+        "youtube": {
+          "handle": "@KEITO_AI_WEB",
+          "followers": 148000,
+          "engagement_rate": "very_high"
+        },
+        "x_com": {
+          "handle": "@keito_ai_web",
+          "followers": 20000,
+          "engagement_rate": "high"
+        }
+      },
+      "specialties": ["AI Tools", "Web Development", "Manus AI Agent"],
+      "collaboration_potential": 5,
+      "languages": ["Japanese"],
+      "profile_path": "profiles/east-asia/keito.md",
+      "image_path": "images/portraits/keito.jpg",
+      "existing_partner": true
+    },
+    {
+      "id": "patricia-scanlon",
+      "name": "Dr. Patricia Scanlon",
+      "tier": "S",
+      "region": "europe",
+      "country": "Ireland",
+      "platforms": {
+        "linkedin": {
+          "handle": "patricia-scanlon",
+          "followers": 50000,
+          "engagement_rate": "very_high"
+        },
+        "speaking": {
+          "type": "conferences",
+          "reach": "global",
+          "engagement_rate": "exceptional"
+        }
+      },
+      "specialties": ["AI Ethics", "EU AI Policy", "Government Relations"],
+      "collaboration_potential": 5,
+      "languages": ["English"],
+      "profile_path": "profiles/europe/patricia-scanlon.md",
+      "image_path": "images/portraits/patricia_scanlon.jpg",
+      "government_position": "Ireland's AI Ambassador"
+    }
+  ]
+}
+
