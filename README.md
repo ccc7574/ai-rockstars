@@ -1,3 +1,4 @@
+
 # 🌟 AI Rockstars - AI Agent 领域杰出人物 / Outstanding Figures in AI Agent Field
 
 > 汇聚全球AI Agent领域的杰出人物与思想领袖，分享他们的洞察与贡献  
@@ -154,17 +155,67 @@ Each outstanding figure has a detailed profile including:
 
 #### 北美地区档案 / North America Profiles
 
-{{ include "profiles/north-america/andrew-ng.md" }}
 
-{{ include "profiles/north-america/tina-huang.md" }}
+
 
 #### 东亚地区档案 / East Asia Profiles  
 
-{{ include "profiles/east-asia/keito.md" }}
+
 
 #### 欧洲地区档案 / Europe Profiles
 
-{{ include "profiles/europe/patricia-scanlon.md" }}
+
+
+#### 其他地区档案 / Other Regions Profiles
+
+{{ include "profiles/other/张涛.md" }}
+{{ include "profiles/other/季逸超.md" }}
+{{ include "profiles/other/evan-reiser:-abnormal-security-联合创始人兼ceo.md" }}
+{{ include "profiles/other/sanjay-jeyakumar:-abnormal-security-联合创始人.md" }}
+{{ include "profiles/other/harrison-chase:-langchain-创始人.md" }}
+{{ include "profiles/other/munjal-shah:-hippocratic-ai-联合创始人.md" }}
+{{ include "profiles/other/景鲲:-genspark-创始人.md" }}
+{{ include "profiles/other/曼尼·梅迪纳（manny-medina）:-paid-创始人，outreach-联合创始人兼前ceo.md" }}
+{{ include "profiles/other/周衔:-genesis-创始人及ceo.md" }}
+{{ include "profiles/other/胡世超:-璇星科技ceo.md" }}
+{{ include "profiles/other/刘晓春:-言创万物联合创始人及coo.md" }}
+{{ include "profiles/other/王冠:-one2x-ceo.md" }}
+{{ include "profiles/other/李广密:-拾象科技ceo.md" }}
+{{ include "profiles/other/roman-chernin:-nebius-co-founder-&-cbo.md" }}
+{{ include "profiles/other/xiyue-xiang:-amd资深首席工程师，前-sambanova-高级工程经理.md" }}
+{{ include "profiles/other/echo-zhong:-kick-founding-head-of-tax.md" }}
+{{ include "profiles/other/laura-lin:-collov-ai-head-of-growth-&-community.md" }}
+{{ include "profiles/other/waylon-ming:-omnify-labs-founder.md" }}
+{{ include "profiles/other/黄子琪:-2025苹果ai学者，研究领域.md" }}
+{{ include "profiles/other/孔令东:-2025苹果ai学者，研究领域.md" }}
+{{ include "profiles/other/吉嘉铭:-2025苹果ai学者，研究领域.md" }}
+{{ include "profiles/other/顾煜贤:-2025苹果ai学者，研究领域.md" }}
+{{ include "profiles/other/ruei-che-chang:-2025苹果ai学者，研究领域.md" }}
+{{ include "profiles/other/cathy-mengying-fang:-2025苹果ai学者，研究领域.md" }}
+{{ include "profiles/other/王广辉:-2025苹果ai学者，研究领域.md" }}
+{{ include "profiles/other/谢若宇:-2025苹果ai学者，研究领域.md" }}
+{{ include "profiles/other/李珎:-replit-ai-团队负责-ai-coding-agent，ex--startup-创始人,-ex--googler.md" }}
+{{ include "profiles/other/姚顺雨:-普林斯顿大学博士，agent-领域研究员，swe-bench-和-swe-agent-项目发起人.md" }}
+{{ include "profiles/other/赵宇哲:-augment-ai-研究员，ex-google-deepmind.md" }}
+{{ include "profiles/other/周志峰:-启明创投主管合伙人，ai-agent领域投资人.md" }}
+{{ include "profiles/other/高莘:-电子科技大学，研究方向.md" }}
+{{ include "profiles/other/王仲远:-百度集团副总裁、深度学习技术及应用国家工程研究中心副主任，研究方向.md" }}
+{{ include "profiles/other/刘康:-中国科学院自动化研究所研究员，研究方向.md" }}
+{{ include "profiles/other/张鹏:-腾讯游戏ai平台部总经理，研究方向.md" }}
+{{ include "profiles/other/张梅:-清华大学智能产业研究院助理研究员，研究方向.md" }}
+{{ include "profiles/other/李国豪:-中英人工智能协会，研究方向.md" }}
+{{ include "profiles/other/程絮森:-教授，研究方向.md" }}
+{{ include "profiles/other/david-luan:-adept-ceo.md" }}
+{{ include "profiles/other/ashish-vaswani:-adept-联合创始人兼首席科学家.md" }}
+{{ include "profiles/other/niki-parmar:-adept-cto.md" }}
+{{ include "profiles/other/李强:-奇绩创坛创业顾问.md" }}
+{{ include "profiles/other/邵帅:-奇绩创坛路演项目创始人/ceo.md" }}
+{{ include "profiles/other/斯里尼瓦斯·纳拉扬（srinivas-narayanan）:-openai-负责chatgpt-和各代模型的api-搭建的工程工作.md" }}
+{{ include "profiles/other/杨鸿城:-奇绩创坛路演项目创始人/ceo.md" }}
+{{ include "profiles/other/daniel-de-freitas:-谷歌brain大模型lamda前负责人.md" }}
+{{ include "profiles/other/noam:-transformer八位作者之一.md" }}
+{{ include "profiles/other/jesse-zhang:-11x.ai-ceo.md" }}
+{{ include "profiles/other/karol-hausman:-pi-ceo.md" }}
 
 ## 🤝 贡献指南 / Contributing Guidelines
 
@@ -187,11 +238,11 @@ We welcome community contributions! If you know other important figures in the A
 ### 档案标准 / Profile Standards
 
 每个档案应包含 / Each profile should include:
-- ✅ 个人基本信息 / Basic personal information
-- ✅ 教育和职业背景 / Educational and professional background
-- ✅ 主要技术贡献 / Major technical contributions
-- ✅ 社交媒体链接 / Social media links
-- ✅ 高质量头像照片 / High-quality portrait photo
+- ✅ **个人基本信息** / Basic personal information
+- ✅ **教育和职业背景** / Educational and professional background
+- ✅ **主要技术贡献** / Major technical contributions
+- ✅ **社交媒体链接** / Social media links
+- ✅ **高质量头像照片** / High-quality portrait photo
 
 ## 📄 许可证 / License
 
@@ -205,11 +256,10 @@ Thanks to all outstanding figures who have contributed to the development of the
 
 ---
 
-**最后更新 / Last Updated**: 2025年6月21日 / June 21, 2025  
+**最后更新 / Last Updated**: 2025年6月22日 / June 22, 2025  
 **项目维护者 / Project Maintainer**: [ccc7574](https://github.com/ccc7574)
 
 ---
 
-*本项目致力于促进AI Agent领域的知识分享与交流，如有任何建议或意见，欢迎通过 Issues 与我们联系。*  
+*本项目致力于促进AI Agent领域的知识分享与交流，如有任何建议或意见，欢迎通过 Issues 与我们联系。*
 *This project is dedicated to promoting knowledge sharing and communication in the AI Agent field. For any suggestions or feedback, please contact us through Issues.*
-
